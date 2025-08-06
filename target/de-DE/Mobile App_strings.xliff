@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" target-language="en" date="2025-07-16T09:26:09Z" product-name="VQ Mobile App" tool="Applanga">
+    <header>
+      <tool tool-name="Applangagagougou" />
+    </header>
+    <body>
+      <trans-unit id="conciergeServices.apd.title" x-length-option="equals-source">
+        <source>APD Concierge</source><target state="needs-translation">APD Concierge</target>
+      </trans-unit>
+      <trans-unit id="conciergeServices.apd.description" x-length-option="equals-source">
+        <source>Enjoy a seamless, luxurious journey for individuals and groups, with professional drivers, VIP hospitality experts, and 24/7 support.</source><target state="needs-translation">Genießen Sie eine nahtlose, luxuriöse Reise für Einzelpersonen und Gruppen mit professionellen Fahrern, VIP-Experten und 24/7 Support.</target>
+      </trans-unit>
+      <trans-unit id="home.carouselCards.conciergeServices.title" x-length-option="equals-source">
+        <source>Concierge Services</source><target state="needs-translation">Concierge-Service</target>
+      </trans-unit>
+      <trans-unit id="home.carouselCards.conciergeServices.subTitle" x-length-option="equals-source">
+        <source>Enjoy the best of Qatar with expert concierge services that handle every detail of your trip.</source><target state="needs-translation">Genießen Sie das Beste von Katar mit einem professionellen Concierge-Service, der jedes Detail Ihrer Reise erledigt.</target>
+      </trans-unit>
+      <trans-unit id="conciergeServices.disclaimer" x-length-option="equals-source">
+        <source>Discover the essence of Qatar with bespoke travel, tailored leisure, and exclusive access to the country’s finest hotels, resorts, and restaurants – all crafted just for you.</source><target state="needs-translation">Entdecken Sie die Essenz Katars mit maßgeschneiderten Reisen, maßgeschneiderter Freizeit und exklusivem Zugang zu den besten Hotels, Resorts und Restaurants des Landes – alles nur für Sie.</target>
+      </trans-unit>
+      <trans-unit id="conciergeServices.cirro.description" x-length-option="equals-source">
+        <source>Enjoy the best of Qatar with expert concierge services that handle every detail of your trip so you can experience the extraordinary, effortlessly. From arrivals to reservations, they help you craft a truly personalised experience.</source><target state="needs-translation">Genießen Sie das Beste von Katar mit einem professionellen Concierge-Service, der jedes Detail Ihrer Reise erledigt, damit Sie das außergewöhnliche mühelos erleben können. Von der Ankunft bis zur Reservierung – sie helfen Ihnen, ein wirklich persönliches Erlebnis zu schaffen.</target>
+      </trans-unit>
+      <trans-unit id="conciergeServices.whatsappButton" x-length-option="equals-source">
+        <source>Contact</source><target state="needs-translation">Kontakt</target>
+      </trans-unit>
+      <trans-unit id="feedbackForm.bottomCTA.homeScreen" x-length-option="equals-source">
+        <source>Feedback about home</source><target state="needs-translation">Feedback zu Hause</target>
+      </trans-unit>
+      <trans-unit id="feedbackForm.bottomCTA.essentials" x-length-option="equals-source">
+        <source>Feedback about essentials</source><target state="needs-translation">Feedback zu den wesentlichen Dingen</target>
+      </trans-unit>
+      <trans-unit id="feedbackForm.bottomCTA.vqPass" x-length-option="equals-source">
+        <source>Feedback about VQ Pass</source><target state="needs-translation">Feedback zum VQ Pass</target>
+      </trans-unit>
+      <trans-unit id="feedbackForm.essentials.section" x-length-option="equals-source">
+        <source>Tell us about your experience</source><target state="needs-translation">Erzählen Sie uns von Ihrer Erfahrung</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
